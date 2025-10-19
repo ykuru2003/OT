@@ -35,10 +35,7 @@
 
 ---
 
-## 🚀 実行方法
-
-### 1️⃣ 必要なライブラリのインストール
+## 必要なライブラリのインストール
 Python 3.8以上を推奨します。
-
 ```bash
 pip install pandas numpy matplotlib seaborn statsmodels scikit-learn os 
